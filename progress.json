@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:59:31.567Z",
+  "generated_at": "2026-11-25T06:59:34.035Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -286,6 +286,84 @@
       "last_pushed_at": "2026-04-03T10:38:44.615Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-04-04T05:17:24.824Z",
+      "last_pushed_at": "2026-04-04T05:17:24.824Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-04-04T05:26:05.294Z",
+      "last_pushed_at": "2026-04-04T05:26:05.294Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-04-04T05:32:24.251Z",
+      "last_pushed_at": "2026-04-04T05:32:24.251Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-04-04T05:37:57.173Z",
+      "last_pushed_at": "2026-04-04T05:37:57.173Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-04-04T05:40:27.002Z",
+      "last_pushed_at": "2026-04-04T05:40:27.002Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:175": {
+      "kind": "problem",
+      "id": "175",
+      "title": "Implement the SARSA Algorithm on policy",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/175",
+      "path": "problems/0175-implement-the-sarsa-algorithm-on-policy",
+      "first_solved_at": "2026-04-04T15:58:24.078Z",
+      "last_pushed_at": "2026-04-04T15:58:24.078Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
