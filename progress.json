@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:59:34.035Z",
+  "generated_at": "2026-11-25T06:59:36.655Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,58 @@
       "last_pushed_at": "2026-04-04T15:58:24.078Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-04-05T17:06:02.423Z",
+      "last_pushed_at": "2026-04-05T17:06:02.423Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-04-05T17:09:14.992Z",
+      "last_pushed_at": "2026-04-05T17:09:14.992Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:183": {
+      "kind": "problem",
+      "id": "183",
+      "title": "Calculate Portfolio Variance",
+      "difficulty": "easy",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/183",
+      "path": "problems/0183-calculate-portfolio-variance",
+      "first_solved_at": "2026-04-05T17:52:07.360Z",
+      "last_pushed_at": "2026-04-05T17:52:07.360Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-04-05T17:54:08.183Z",
+      "last_pushed_at": "2026-04-05T17:54:08.183Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
